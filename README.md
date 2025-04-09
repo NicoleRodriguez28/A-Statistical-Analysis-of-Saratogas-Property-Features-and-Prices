@@ -14,5 +14,5 @@ In this analysis, I examined a dataset containing information on 1,057 homes in 
 
 ## References
 1. DATAtab. (2023, October 29). Violin Plot [Simply explained] [Video]. YouTube. https://www.youtube.com/watch?v=Rw00VmP--qk
-2. The best visualization for you. (n.d.). Tableau. https://www.tableau.com/learn/get-started/desktop-viz-design#:~:text=A%20bar%20chart%20will%20answer,compare%20information%20at%20a%20glance.
-3. Introduction. (n.d.). https://rmarkdown.rstudio.com/lesson-1.html
+2. Introduction. (n.d.). https://rmarkdown.rstudio.com/lesson-1.html
+3. The best visualization for you. (n.d.). Tableau. https://www.tableau.com/learn/get-started/desktop-viz-design#:~:text=A%20bar%20chart%20will%20answer,compare%20information%20at%20a%20glance.
